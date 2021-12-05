@@ -1,2 +1,2 @@
-# Voice-Recognition
- The FPGA Project for Voive Recognition
+# Speech-Recognition
+ The FPGA Project for Speech Recognition
